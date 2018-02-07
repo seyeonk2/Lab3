@@ -7,9 +7,9 @@ public class WebScrapper {
         String url = urlToString("http://erdani.com/tdpl/hamlet.txt");
         String urlPrince = "prince";
         int wordCount = 0;
-        url.split(" ")
+        url.split(" ");
         for (int i = 0; i < url.length(); i++);
-           
+
     }
     /**
      * Retrieve contents from a URL and return them as a string.
